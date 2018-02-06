@@ -1,0 +1,10 @@
+*.a
+*.o
+*.swo
+*.swp
+.DS_Store
+Makefile
+config.log
+config.status
+nbcompat/config.h
+nbcompat/nbconfig.h
